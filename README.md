@@ -35,9 +35,10 @@
 <a href="https://www.hackerrank.com/abubakarsiddik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abubakarsiddik" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakar31&show_icons=true&theme=dark&title_color=2b93d4&text_color=ededed&locale=en&layout=compact" alt="bakar31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakar31&show_icons=true&theme=dark&title_color=08a4d9&text_color=ffffff&locale=en" alt="bakar31" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakar31&show_icons=true&theme=dark&title_color=2b93d4&text_color=ededed&locale=en&layout=compact" alt="bakar31" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakar31&label=Profile%20views&color=0e75b6&style=flat" alt="bakar31" /> </p>
 
