@@ -17,7 +17,7 @@
 - 🔗 OOP
 
 ## Badges
-- Kaggle Expert(2x)🥈🥈
+- Kaggle Expert(3x)🥈🥈🥈
 - Python(⭐⭐⭐)🥈
 - Statistics(⭐)🥉
 
