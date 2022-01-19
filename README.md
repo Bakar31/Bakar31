@@ -1,24 +1,31 @@
 ### Hi there, I'm Abu Bakar Siddik 👋
 
-## I am a Student👨🏻‍🎓 , Data Science📊 and Machine Learning📉 Enthusiast📚
+## I am a Mechatronics Engineering Student👨🏻‍🎓 , Data Science Intern at Cramstack and TinyML Enthusiast
 
-- 🔭 I’m currently Focused🎯 to get better
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate with other Data Science and Machine Learning Enthusiasts
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently Focused🎯 to create Embedded System with TinyML
+- 🌱 I’m currently learning TinyML
+- 👯 I’m looking to collaborate with other TinyML Enthusiasts
 - ⚡ Fun fact: I love to play and watch Football⚽
 
-## Skills and Experience
+## Skills
 - 📉 Machine Learning
 - 💻 Deep Learning
 - 📈 Data Analysis
 - 📊 Data Visualization
 - 📱 Embedded Machine Learning
-- 🔗 OOP
+- 📷 Computer Vision
+- 📖 NLP
+- 🕸 Web Scraping
 
 
 ## Languages and Tools
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+- Python
+- C++
+- Tensorflow
+- Keras
+- OpenCV
+- Scikit-Learn
+- Spacy
 
 ## Connect with me
 <p align="left">
