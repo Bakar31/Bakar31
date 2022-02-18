@@ -20,15 +20,6 @@
 - 🕸 Web Scraping
 
 
-## Languages and Tools
-- Python
-- C++
-- Tensorflow
-- Keras
-- OpenCV
-- Scikit-Learn
-- Spacy
-
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/abu-bakar-siddik31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-bakar-siddik31" height="30" width="40" /></a>
