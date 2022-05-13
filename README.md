@@ -33,4 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakar31&show_icons=true&theme=dark&title_color=2b93d4&text_color=ededed&locale=en&layout=compact" alt="bakar31" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakar31&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakar31&label=Profile%20views&color=0e75b6&style=flat" alt="bakar31" /> </p>
