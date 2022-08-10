@@ -3,19 +3,20 @@
 - **I am a Mechatronics Engineering Student👨🏻‍🎓 at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)**
 - **Data Science Intern at Cramstack**
 - **Researcher**
-- **TinyML and Data Science Enthusiast**
+- **TinyML and Control System Enthusiast**
 - **Currently Focused🎯 to create Embedded System with TinyML**
 - **Currently learning TinyML and Pytorch**
-- **Looking to collaborate with other TinyML and Data Science Enthusiasts**
+- **Looking to collaborate with other TinyML / Deep Learnig / NLP / Control system Enthusiasts**
 
 ## Skills
 - 📉 Machine Learning
 - 💻 Deep Learning
 - 📈 Data Analysis
 - 📊 Data Visualization
-- 📱 Embedded Machine Learning
-- 📷 Computer Vision
 - 📖 NLP
+- ✔ Control System
+- 📷 Computer Vision
+- 📱 Embedded Machine Learning
 - 🕸 Web Scraping
 
 ## Connect with me
