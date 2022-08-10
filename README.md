@@ -1,9 +1,9 @@
 ## Hi there, I'm Abu Bakar Siddik 👋
 
 - **I am a Mechatronics Engineering Student👨🏻‍🎓 at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)**
-- **Data Science Intern at Cramstack**
+- **Former Data Science Apprectice at Cramstack**
 - **Researcher**
-- **TinyML and Control System Enthusiast**
+- **TinyML, Control System, Deep Learning and NLP Enthusiast**
 - **Currently Focused🎯 to create Embedded System with TinyML**
 - **Currently learning TinyML and Pytorch**
 - **Looking to collaborate with other TinyML / Deep Learnig / NLP / Control system Enthusiasts**
