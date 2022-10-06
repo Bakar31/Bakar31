@@ -1,7 +1,8 @@
 ## Hi there, I'm Abu Bakar Siddik 👋
 
 - **I am a Mechatronics Engineering Student👨🏻‍🎓 at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)**
-- **Former Data Science Apprectice at Cramstack**
+- **Machine Learning Researcher and Engineer Intern at Intelsense AI Limited**
+- **Former Data Science Apprectice at Cramstack Limited**
 - **Researcher**
 - **TinyML, Control System, Deep Learning and NLP Enthusiast**
 - **Currently Focused🎯 to create Embedded System with TinyML**
