@@ -5,8 +5,7 @@
 - **Former Data Science Apprectice at Cramstack Limited**
 - **Researcher**
 - **TinyML, Control System, Deep Learning and NLP Enthusiast**
-- **Currently Focused🎯 to create Embedded System with TinyML**
-- **Currently learning TinyML and Pytorch**
+- **Currently learning Transformer and Pytorch**
 - **Looking to collaborate with other TinyML / Deep Learnig / NLP / Control system Enthusiasts**
 
 ## Skills
