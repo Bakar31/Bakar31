@@ -1,23 +1,40 @@
 ## Hi there, I'm Abu Bakar Siddik 👋
 
-- **I am a Mechatronics Engineering Student👨🏻‍🎓 at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/)**
-- **Machine Learning Researcher and Engineer Intern at Intelsense AI Limited**
-- **Former Data Science Apprectice at Cramstack Limited**
-- **Researcher**
-- **Research field: Deep Learning, Natual Language Processing and Embedded System**
-- **Currently learning Pytorch**
-- **Currently reading "Deep Learning" by Ian Goodfellow**
-- **Currently attempting to implement deep learning concepts fromm scratch and to replicate the "InstructGPT" paper**
-- **Looking to collaborate with other Deep Learnig / NLP Enthusiasts**
+I am a *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi University of Engineering & Technology (RUET). Currently, I am a **Machine Learning Researcher and Engineer Intern at Intelsense AI Limited**, and I have previously worked as a Data Science Apprentice at Cramstack Limited. My research field focuses on **Deep Learning, Natual Language Processing, and Embedded System**.
+
+## Current Focus
+- 📚 Learning Pytorch to better understand deep learning frameworks.
+- 📖 Reading "Deep Learning" by Ian Goodfellow to comprehend the essence of modern Deep Learning.
+- 🏗 Implement Deep Learning algorithms and concepts from scratch for better understanding.
+- 💻 Replicate famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas.
+- 💻 Replicate the "InstructGPT" paper.
 
 ## Skills
-- 📉 Machine Learning
-- 💻 Deep Learning
-- 📖 Natural Language Processing
-- 📷 Computer Vision
-- 📱 Embedded Machine Learning
-- 📈 Data Analysis & Visualization
-- ✔ Control System
+- 📚 Ability to continuous learning and updating myself
+- 📉 Machine Learning: scikit-learn, TensorFlow, Keras
+- 💻 Deep Learning: PyTorch, TensorFlow, Keras
+- 📖 Natural Language Processing: Transformer, spaCy, NLTK
+- 📷 Computer Vision: OpenCV, TensorFlow, Pytorch, Vision Transformer(Vit)
+- 🗄 Database: SQLite3
+- 📟 GUI Development: PyQt5
+- 📱 Embedded System: Arduino, AVR, TensorFlow Lite, TensorFlow Micro
+- 📈 Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Google Data Studio
+- 🕸 Web Scraping: BeautifulSoup, Selenium
+- 🌐 Web Development: Flask
+- ✔ Control System: MATLAB
+
+## Publications
+- [Real-time Patient Monitoring System to Reduce Medical Error with the help of Database System](https://www.researchgate.net/publication/368104106_Real-time_Patient_Monitoring_System_to_Reduce_Medical_Error_with_the_help_of_Database_System)
+
+## Research Topics
+- Deep Learning
+- Deep Learning in Healthcare
+- Natural Language Processing (LLMs)
+- Embedded Systems
+
+#to do
+## Projects
+
 
 ## Connect with me
 <p align="left">
