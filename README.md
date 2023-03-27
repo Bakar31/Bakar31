@@ -4,20 +4,20 @@
 - **Machine Learning Researcher and Engineer Intern at Intelsense AI Limited**
 - **Former Data Science Apprectice at Cramstack Limited**
 - **Researcher**
-- **TinyML, Control System, Deep Learning and NLP Enthusiast**
-- **Currently learning Transformer and Pytorch**
-- **Looking to collaborate with other TinyML / Deep Learnig / NLP / Control system Enthusiasts**
+- **Research field: Deep Learning, Natual Language Processing and Embedded System**
+- **Currently learning Pytorch**
+- **Currently reading "Deep Learning" by Ian Goodfellow**
+- **Currently attempting to implement deep learning concepts fromm scratch and to replicate the "InstructGPT" paper**
+- **Looking to collaborate with other Deep Learnig / NLP Enthusiasts**
 
 ## Skills
 - 📉 Machine Learning
 - 💻 Deep Learning
-- 📈 Data Analysis
-- 📊 Data Visualization
-- 📖 NLP
-- ✔ Control System
+- 📖 Naturn Language Processing
 - 📷 Computer Vision
 - 📱 Embedded Machine Learning
-- 🕸 Web Scraping
+- 📈 Data Analysis & Visualization
+- ✔ Control System
 
 ## Connect with me
 <p align="left">
