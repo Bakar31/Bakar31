@@ -13,7 +13,7 @@
 ## Skills
 - 📉 Machine Learning
 - 💻 Deep Learning
-- 📖 Naturn Language Processing
+- 📖 Natural Language Processing
 - 📷 Computer Vision
 - 📱 Embedded Machine Learning
 - 📈 Data Analysis & Visualization
