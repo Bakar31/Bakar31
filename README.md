@@ -32,14 +32,6 @@ I am a *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi U
 - Natural Language Processing (LLMs)
 - Embedded Systems
 
-#to do
-## Projects
-### Deep Learning:
-   - [Breast Cancer Detection](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/README.md) 
-
-### App/Webapp
-- [CGPA Calculator](https://github.com/Bakar31/CGPA-Calculator/blob/master/README.md)
-
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/abu-bakar-siddik31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-bakar-siddik31" height="30" width="40" /></a>
