@@ -34,7 +34,11 @@ I am a *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi U
 
 #to do
 ## Projects
+### Deep Learning:
+   - [Breast Cancer Detection](https://github.com/Bakar31/Breast-Cancer-Detection/blob/master/README.md) 
 
+### App/Webapp
+- [CGPA Calculator](https://github.com/Bakar31/CGPA-Calculator/blob/master/README.md)
 
 ## Connect with me
 <p align="left">
