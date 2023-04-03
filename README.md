@@ -23,9 +23,6 @@ I am a *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi U
 - 🌐 Web Development: Flask
 - ✔ Control System: MATLAB
 
-## Publications
-- [Real-time Patient Monitoring System to Reduce Medical Error with the help of Database System](https://www.researchgate.net/publication/368104106_Real-time_Patient_Monitoring_System_to_Reduce_Medical_Error_with_the_help_of_Database_System)
-
 ## Research Topics
 - Deep Learning
 - Deep Learning in Healthcare
