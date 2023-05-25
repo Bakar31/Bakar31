@@ -1,12 +1,14 @@
 ## Hi there, I'm Abu Bakar Siddik 👋
 
+Visit my [website](https://abubakarsiddik.me/)
+
 I am a *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi University of Engineering & Technology (RUET). Currently, I am a **Machine Learning Researcher and Engineer at Intelsense AI Limited**, and I have previously worked as a Data Science Apprentice at Cramstack Limited. My research field focuses on **Deep Learning, Natual Language Processing, and Embedded System**.
 
-## Current Focus
-- 📚 Learning Pytorch to better understand deep learning frameworks.
+## Currently
+- 📚 Learning "Data Structure and Algorithms".
 - 📖 Reading "Deep Learning" by Ian Goodfellow to comprehend the essence of modern Deep Learning.
 - 🏗 Implement Deep Learning algorithms and concepts from scratch for better understanding.
-- 💻 Replicate famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas.
+- 💻 Replicating famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas.
 - 💻 Replicate the "InstructGPT" paper.
 
 ## Skills
