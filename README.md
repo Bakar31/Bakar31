@@ -1,6 +1,6 @@
-## Hi there, I'm Abu Bakar Siddik 👋
+## Hi there, I'm [Abu Bakar Siddik](https://abubakarsiddik.me/) 👋
 
-Visit my [website](https://abubakarsiddik.me/)
+<!-- Visit my [website](https://abubakarsiddik.me/) -->
 
 I am a *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi University of Engineering & Technology (RUET). Currently, I am a **Machine Learning Researcher and Engineer at Intelsense AI Limited**, and I have previously worked as a Data Science Apprentice at Cramstack Limited. My research field focuses on **Deep Learning, Natual Language Processing, and Embedded System**.
 
