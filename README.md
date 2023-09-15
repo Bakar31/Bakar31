@@ -5,11 +5,10 @@
 I am an *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi University of Engineering & Technology (RUET). Currently, I am a **Machine Learning Researcher and Engineer at Intelsense AI Limited**, and I have previously worked as a Data Science Apprentice at Cramstack Limited. My research field focuses on **Deep Learning, Natual Language Processing, Robotics and Embedded System**.
 
 ## Currently
-- 📚 Learning "Data Structure and Algorithms".
+- 📚 Learning "Data Structure and Algorithms" & "MLOps".
 - 📖 Reading "Deep Learning" by Ian Goodfellow to comprehend the essence of modern Deep Learning.
 - 🏗 Implement Deep Learning algorithms and concepts from scratch for better understanding.
 - 💻 Replicating famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas.
-- 💻 Replicate the "InstructGPT" paper.
 
 ## Skills
 - 📚 Ability to continuous learning and updating myself
@@ -17,12 +16,11 @@ I am an *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi 
 - 💻 Deep Learning: PyTorch, TensorFlow, Keras
 - 📖 Natural Language Processing: Transformer, spaCy, NLTK
 - 📷 Computer Vision: OpenCV, TensorFlow, Pytorch, Vision Transformer(Vit)
-- 🗄 Database: SQLite3
-- 📟 GUI Development: PyQt5
-- 📱 Embedded System: Arduino, AVR, TensorFlow Lite, TensorFlow Micro
 - 📈 Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Google Data Studio
+- 🌐 Web Development: Flask, FastAPI
+- 🗄 Database: SQLite3
+- 📱 Embedded System: Arduino, AVR, TensorFlow Lite, TensorFlow Micro
 - 🕸 Web Scraping: BeautifulSoup, Selenium
-- 🌐 Web Development: Flask
 - ✔ Control System: MATLAB
 
 ## Research Topics
