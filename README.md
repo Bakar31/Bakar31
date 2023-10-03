@@ -2,9 +2,10 @@
 
 ### Visit my [website](https://abubakarsiddik.me/)
 
-I am an *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi University of Engineering & Technology (RUET). Currently, I am a **Machine Learning Researcher and Engineer at Intelsense AI Limited**, and I have previously worked as a Data Science Apprentice at Cramstack Limited. My research field focuses on **Deep Learning, Natual Language Processing, Robotics and Embedded System**.
+I am an *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi University of Engineering & Technology (RUET). Currently, I am a **Machine Learning Researcher and Engineer at Intelsense AI Limited**, and I have previously worked as a Data Science Apprentice at Cramstack Limited. My research field focuses on **Deep Learning, Natual Language Processing, and Robotics**.
 
 ## Currently
+- 📚 Learning "Advanced NLP concepts".
 - 📚 Learning "Data Structure and Algorithms" & "MLOps".
 - 📖 Reading "Deep Learning" by Ian Goodfellow to comprehend the essence of modern Deep Learning.
 - 🏗 Implement Deep Learning algorithms and concepts from scratch for better understanding.
@@ -12,16 +13,15 @@ I am an *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi 
 
 ## Skills
 - 📚 Ability to continuous learning and updating myself
-- 📉 Machine Learning: scikit-learn, TensorFlow, Keras
+- 📖 Natural Language Processing: LLM, Langchain, LoRA, Transformer, Rasa (Chatbot)
 - 💻 Deep Learning: PyTorch, TensorFlow, Keras
-- 📖 Natural Language Processing: Transformer, spaCy, NLTK
+- 📉 Machine Learning: scikit-learn, TensorFlow, Keras
 - 📷 Computer Vision: OpenCV, TensorFlow, Pytorch, Vision Transformer(Vit)
 - 📈 Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Google Data Studio
 - 🌐 Web Development: Flask, FastAPI
 - 🗄 Database: SQLite3
 - 📱 Embedded System: Arduino, AVR, TensorFlow Lite, TensorFlow Micro
 - 🕸 Web Scraping: BeautifulSoup, Selenium
-- ✔ Control System: MATLAB
 
 ## Research Topics
 - Deep Learning
