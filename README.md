@@ -10,6 +10,10 @@ A passionate Machine Learning Engineer dedicated to pushing the boundaries of ar
 
 🔍 My research interests span across Deep Learning, Machine Learning, and Natural Language Processing (NLP), Healthcare, where I leverage cutting-edge techniques to unravel insights and drive impactful outcomes. 
 
+#### Career Goals:
+
+My ultimate goal is to evolve into the epitome of an AI engineer, continually pushing myself to learn and grow in this dynamic field. I am deeply invested in staying abreast of the latest advancements in AI and contributing to meaningful projects that have a positive impact on society.
+
 
 <!-- ## Currently
 - 📚 Learning "Advanced NLP concepts".
