@@ -1,26 +1,31 @@
 ## Hi there, I'm [Abu Bakar Siddik](https://abubakarsiddik.me/) 👋
 
-### Visit my [website](https://abubakarsiddik.me/)
+### Visit my [portfolio](https://abubakarsiddik.me/)
 
-I am an *undergrad Mechatronics Engineering Student*👨🏻‍🎓 at Rajshahi University of Engineering & Technology (RUET). My research field focuses on **Deep Learning, Natual Language Processing, and Robotics**.
+A passionate Machine Learning Engineer dedicated to pushing the boundaries of artificial intelligence and its applications. My journey in the realm of AI has been marked by a fervent commitment to continuous learning and exploration. 
 
-## Currently
+<!-- 🎓 Armed with a Bachelor's degree in Mechatronics Engineering, I've cultivated a versatile skill set that enables me to tackle complex challenges with precision and creativity. My journey in the realm of AI has been marked by a fervent commitment to continuous learning and exploration. -->
+
+💼 Currently serving as a Machine Learning Engineer at [Sazim](https://sazim.io), I'm deeply involved in developing state-of-the-art AI solutions that empower businesses and individuals alike. I thrive in dynamic environments where collaboration and innovation converge to create meaningful change.
+
+🔍 My research interests span across Deep Learning, Machine Learning, and Natural Language Processing (NLP), Healthcare, where I leverage cutting-edge techniques to unravel insights and drive impactful outcomes. 
+
+
+<!-- ## Currently
 - 📚 Learning "Advanced NLP concepts".
 - 📚 Learning "Data Structure and Algorithms" & "MLOps".
 - 📖 Reading "Deep Learning" by Ian Goodfellow to comprehend the essence of modern Deep Learning.
 - 🏗 Implement Deep Learning algorithms and concepts from scratch for better understanding.
-- 💻 Replicating famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas.
+- 💻 Replicating famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas. -->
 
 ## Skills
 - 📚 Ability to continuous learning and updating myself
-- 📖 Natural Language Processing: LLM, Langchain, LoRA, Transformer, Rasa (Chatbot)
+- 📖 Natural Language Processing: LLM, RAG, Langchain, Llamaindex, Transformer, Rasa (Chatbot)
 - 💻 Deep Learning: PyTorch, TensorFlow, Keras
 - 📉 Machine Learning: scikit-learn, TensorFlow, Keras
 - 📷 Computer Vision: OpenCV, TensorFlow, Pytorch, Vision Transformer(Vit)
-- 📈 Data Analysis & Visualization: Pandas, Matplotlib, Seaborn, Google Data Studio
-- 🌐 Web Development: Flask, FastAPI
-- 🗄 Database: SQLite3
-- 📱 Embedded System: Arduino, AVR, TensorFlow Lite, TensorFlow Micro
+- 🌐 Web Development: Flask, FastAPI, React, Nextjs, Express, PrismaORM
+- 🗄 Database: postgreSQL, SQLite3
 - 🕸 Web Scraping: BeautifulSoup, Selenium
 
 ## Research Topics
