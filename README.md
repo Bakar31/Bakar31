@@ -1,6 +1,6 @@
-## Hi there, I'm [Abu Bakar Siddik](https://abubakarsiddik.me/) 👋
+## Hi there, I'm [Abu Bakar Siddik](https://abubakarsiddik.vercel.app/) 👋
 
-### Visit my [portfolio](https://abubakarsiddik.me/)
+### Visit my [portfolio](https://abubakarsiddik.vercel.app/)
 
 A passionate Machine Learning Engineer dedicated to pushing the boundaries of artificial intelligence and its applications. My journey in the realm of AI has been marked by a fervent commitment to continuous learning and exploration. 
 
