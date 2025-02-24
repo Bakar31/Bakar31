@@ -2,17 +2,11 @@
 
 ### Visit my [portfolio](https://abubakarsiddik.vercel.app/)
 
-A passionate Machine Learning Engineer dedicated to pushing the boundaries of artificial intelligence and its applications. My journey in the realm of AI has been marked by a fervent commitment to continuous learning and exploration. 
+AI & Machine Learning Engineer with expertise in LLM-powered applications, Agentic workflow, Retrieval-Augmented Generation (RAG), model optimization, and scalable AI system design. Strong background in API design, data modeling, deploying production-ready AI applications, and optimizing AI pipelines. Proficient in Python, Typescript, PyTorch, TensorFlow, Langchain, LlamaIndex, React, and NestJS. Experienced in software development and deployment, vector databases, and AI infrastructure optimization. Passionate about innovation, AI research, and real-world AI applications.
 
 <!-- 🎓 Armed with a Bachelor's degree in Mechatronics Engineering, I've cultivated a versatile skill set that enables me to tackle complex challenges with precision and creativity. My journey in the realm of AI has been marked by a fervent commitment to continuous learning and exploration. -->
 
-💼 Currently serving as a Machine Learning Engineer at [Sazim](https://sazim.io), I'm deeply involved in developing state-of-the-art AI solutions that empower businesses and individuals alike. I thrive in dynamic environments where collaboration and innovation converge to create meaningful change.
-
-🔍 My research interests span across Deep Learning, Machine Learning, and Natural Language Processing (NLP), Healthcare, where I leverage cutting-edge techniques to unravel insights and drive impactful outcomes. 
-
-#### Career Goals:
-
-My ultimate goal is to evolve into the epitome of an AI engineer, continually pushing myself to learn and grow in this dynamic field. I am deeply invested in staying abreast of the latest advancements in AI and contributing to meaningful projects that have a positive impact on society.
+💼 Currently serving as a Machine Learning Engineer at [Sazim](https://sazim.io), I'm deeply involved in developing state-of-the-art AI solutions that empower businesses and individuals alike. 
 
 
 <!-- ## Currently
@@ -22,7 +16,7 @@ My ultimate goal is to evolve into the epitome of an AI engineer, continually pu
 - 🏗 Implement Deep Learning algorithms and concepts from scratch for better understanding.
 - 💻 Replicating famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas. -->
 
-## Skills
+<!-- ## Skills
 - 📚 Ability to continuous learning and updating myself
 - 📖 Natural Language Processing: LLM, RAG, Langchain, Llamaindex, Transformer, Rasa (Chatbot)
 - 💻 Deep Learning: PyTorch, TensorFlow, Keras
@@ -30,13 +24,13 @@ My ultimate goal is to evolve into the epitome of an AI engineer, continually pu
 - 📷 Computer Vision: OpenCV, TensorFlow, Pytorch, Vision Transformer(Vit)
 - 🌐 Web Development: Flask, FastAPI, React, Nextjs, Express, PrismaORM
 - 🗄 Database: postgreSQL, SQLite3
-- 🕸 Web Scraping: BeautifulSoup, Selenium
+- 🕸 Web Scraping: BeautifulSoup, Selenium-->
 
 ## Research Topics
+- Machine Learning
 - Deep Learning
-- Deep Learning in Healthcare
 - Natural Language Processing (LLMs)
-- Embedded Systems
+- LLM Evaluation
 
 ## Connect with me
 <p align="left">
@@ -52,6 +46,7 @@ My ultimate goal is to evolve into the epitome of an AI engineer, continually pu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakar31&show_icons=true&theme=dark&title_color=08a4d9&text_color=ffffff&locale=en" alt="bakar31" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bakar31&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakar31&show_icons=true&theme=dark&title_color=2b93d4&text_color=ededed&locale=en&layout=compact" alt="bakar31" /></p>
 
