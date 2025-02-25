@@ -16,15 +16,18 @@ AI & Machine Learning Engineer with expertise in LLM-powered applications, Agent
 - 🏗 Implement Deep Learning algorithms and concepts from scratch for better understanding.
 - 💻 Replicating famous Deep Learning papers to gain insight into state-of-the-art techniques and enhance my ability to understand and develop new architectures or ideas. -->
 
-<!-- ## Skills
-- 📚 Ability to continuous learning and updating myself
-- 📖 Natural Language Processing: LLM, RAG, Langchain, Llamaindex, Transformer, Rasa (Chatbot)
-- 💻 Deep Learning: PyTorch, TensorFlow, Keras
-- 📉 Machine Learning: scikit-learn, TensorFlow, Keras
-- 📷 Computer Vision: OpenCV, TensorFlow, Pytorch, Vision Transformer(Vit)
-- 🌐 Web Development: Flask, FastAPI, React, Nextjs, Express, PrismaORM
-- 🗄 Database: postgreSQL, SQLite3
-- 🕸 Web Scraping: BeautifulSoup, Selenium-->
+## Skills
+
+- 🤖 **AI & Machine Learning:** LLMs, NLP, RAG, Computer Vision, ASR, Agentic Workflow, Model Fine-Tuning, Evaluation, Model Optimization (Distillation, LoRA, PEFT, Quantization)  
+- 📖 **Natural Language Processing:** LangChain, LlamaIndex, Transformers, sentence-transformer, OpenAI  
+- 💻 **Deep Learning:** PyTorch, TensorFlow, Keras  
+- 📉 **Machine Learning:** Scikit-learn, TensorFlow, Keras  
+- 📷 **Computer Vision:** OpenCV, TensorFlow, PyTorch, Vision Transformer (ViT)  
+- 🌐 **Software & Web Development:** Full-stack development, Agile methodologies, CI/CD, API design, System Design, FastAPI, React.js, Next.js, NestJS, ShadCN  
+- 🗄 **Databases & Infrastructure:** PostgreSQL, MongoDB, Qdrant, PgVector, Weaviate, Git, Docker  
+- 🕸 **Web Scraping:** BeautifulSoup, Selenium  
+- ☁️ **DevOps & Cloud:** AWS, GCP, GitHub Actions  
+
 
 ## Research Topics
 - Machine Learning
